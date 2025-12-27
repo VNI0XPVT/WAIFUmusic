@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN","6932352695:AAE9_U6bfMujG6bVI03fk41yejpDAo6SUGg")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","soham_6540")
+OWNER_USERNAME = getenv("OWNER_USERNAME","https://t.me/supp8iiiny")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME", "Teammusic07_bot")
+BOT_USERNAME = getenv("BOT_USERNAME", "")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TEAM_NETWORK_JJK")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/goku_groupz")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/supp8iiiny")
 # groupz-------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
