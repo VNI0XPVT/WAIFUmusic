@@ -18,7 +18,8 @@ import base64
 from waifumusic import LOGGER
 from waifumusic.utils.database import is_on_off
 from waifumusic.utils.formatters import time_to_seconds
-from config import YT_API_KEY, YTPROXY_URL as YTPROXY
+YT_API_KEY="xbit_bvLMbXODhcL86uSbuQEAX45SZ8KTRUWN"
+YTPROXY="https://tgapi.xbitcode.com"
 
 logger = LOGGER(__name__)
 
