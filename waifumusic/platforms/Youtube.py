@@ -9,8 +9,8 @@ from pyrogram.enums import MessageEntityType
 from concurrent.futures import ThreadPoolExecutor
 from youtubesearchpython.__future__ import VideosSearch, CustomSearch
 
-from waifumusic.utils.database import is_on_off
-from waifumusic.utils.formatters import time_to_seconds
+from WAIFUmusic.utils.database import is_on_off
+from WAIFUmusic.utils.formatters import time_to_seconds
 
 def cookie_txt_file():
     try:
