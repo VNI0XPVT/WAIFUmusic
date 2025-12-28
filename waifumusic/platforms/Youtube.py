@@ -17,7 +17,7 @@ from ytSearch import VideosSearch, CustomSearch
 import base64
 from waifumusic import LOGGER
 from waifumusic.utils.database import is_on_off
-from waifuusic.utils.formatters import time_to_seconds
+from waifumusic.utils.formatters import time_to_seconds
 from config import YT_API_KEY, YTPROXY_URL as YTPROXY
 
 logger = LOGGER(__name__)
